@@ -1,0 +1,6 @@
+{
+  "name": "Attendance Tracker",
+  "description": "Modern student and teacher attendance tracking dashboard connected with Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
